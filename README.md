@@ -34,6 +34,7 @@ Does not cover:
    it feels nonsensical)
 1. Who stands behind GraphQL and what big companies are early
    adopters?
+1. Getting hands dirty: a Netflix clone!
 
 ### Module 2: How to GraphQL
 
