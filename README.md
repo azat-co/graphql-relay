@@ -41,6 +41,7 @@ Does not cover:
    to GraphQL requests.
 1. GraphQL schema and its relation to data storage and other
    services.
+1. Implementation of the GraphQL API back-end.
 1. On the front-end: how to perform a query against remote
    GraphQL server, what do we need to know and what to expect.
 1. Using HTTP as transport, /graphql as the only endpoint and
@@ -56,8 +57,11 @@ Does not cover:
 1. Relay building blocks: RelayContainer, fragments and queries.
 1. Relay container composition. Declaring fragments separately to
    save lines of code and help Relay make optimizations.
+1. Implementation of Relay layer in React app.
 
-### Module 4: 
+### Module 4: Wrap up
+
+1. Review of the resulting codebase to sum things up.
 
 ----
 
