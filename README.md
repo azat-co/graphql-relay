@@ -34,14 +34,15 @@ Does not cover:
    it feels nonsensical)
 1. Who stands behind GraphQL and what big companies are early
    adopters?
+1. What is Relay, and what are Relay containers, query composition and
 1. Getting hands dirty: a Netflix clone!
 
-### Module 2: How to GraphQL
+### Module 2: GraphQL Schema
 
-1. On the back-end: how to provide a GraphQL API that would respond
-   to GraphQL requests.
 1. GraphQL schema and its relation to data storage and other
    services.
+1. On the back-end: how to provide a GraphQL API that would respond
+   to GraphQL requests.
 1. Implementation of the GraphQL API back-end.
 1. On the front-end: how to perform a query against remote
    GraphQL server, what do we need to know and what to expect.
@@ -72,4 +73,3 @@ See also:
   API](https://github.com/github/github-graphql-rails-example/blob/master/db/schema.json)
 - [It's possible that there will be no Relay.Route in
   future](https://github.com/facebook/relay/issues/456#issuecomment-148281506)
-
